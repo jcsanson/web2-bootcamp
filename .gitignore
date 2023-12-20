@@ -13,3 +13,4 @@ web2-bootcamp.iml
 jpa-buddy.xml
 /.idea/sonarlint/issuestore/
 /.idea/sonarlint/securityhotspotstore/
+/.fastRequest/config/fastRequestCurrentProjectEnvironment.json
